@@ -1,8 +1,5 @@
 body {
-  background-color: #9e8d68;
-}
-/* styles.css (or your inline <style> tag) */
-body {
+    background-color: #8c7c60;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,7 +7,7 @@ body {
     margin: 0;
 }
 
-.centered-image {
+.centered-images {
     text-align: center;
 }
 
